@@ -1,6 +1,6 @@
 FROM alpine:3.10
 
-ARG KUBECTL_VERSION=v1.15.3
+ARG KUBECTL_VERSION=v1.24.7
 
 RUN apk add --update \
     jq \
