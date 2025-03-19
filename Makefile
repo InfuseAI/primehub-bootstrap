@@ -1,4 +1,4 @@
-IMAGE=infuseai/primehub-bootstrap:20221125
+IMAGE=infuseai/primehub-bootstrap:2025.03
 
 # Build the image
 .PHONY: build
